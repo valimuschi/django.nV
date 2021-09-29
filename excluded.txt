@@ -1,0 +1,4 @@
+taskManager/view.py
+taskManager/static
+taskManager/templates
+taskManager/forms.py
